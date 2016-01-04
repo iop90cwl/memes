@@ -3,7 +3,7 @@
 x = 1
 lol = 0
 memecount = 0
-sleepinpepperoni = raw_input('The key to success is to enter an integer. ')
+print('The key to success is to enter an integer.')
 while x == 1:
 	lol = 0
 	try:
